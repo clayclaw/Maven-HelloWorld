@@ -1,0 +1,3 @@
+I use IDEA to build
+1. click on lifecycle build
+2. plugins: build jars
