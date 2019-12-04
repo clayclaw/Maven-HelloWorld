@@ -1,3 +1,6 @@
 I use IDEA to build
 1. click on lifecycle build
 2. plugins: build jars
+
+OK, If u are asking me how to use maven to build:
+mvn package
